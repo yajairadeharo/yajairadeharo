@@ -6,7 +6,7 @@
 
 🎀 Information Science & Data Analytics Student @ SJSU <br>
 ✨ Interested in learning more about AI <br>
-🛠️ Currently a SOURCES intern at SCEC developing my skills in Python, machine learning, and data visualization <br>
+🛠️ Currently seeking opportunities to continue developing my skills in Python, machine learning, and data visualization <br>
 🤖 In the AI4ALL Summer 2025 cohort learning and practicing data visualization, feature engineering, and model
 training <br>
 
